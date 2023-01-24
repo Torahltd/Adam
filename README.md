@@ -7,7 +7,7 @@ https://solscan.io/token/9vKuVL9NRwhNMtJ5YLJCUH9rMWn8Y21J2PXhToyEx6Rg
 
 Pancakeswap：
 
-https://aptos.pancakeswap.finance/swap?outputCurrency=0x3c0f09c935a3cccbd42d5df2565ba5853f69e941832938623b0be022e85b02cc%3A%3Acoin%3A%3AT
+https://aptos.pancakeswap.finance/swap?outputCurrency=0xf0e667431b0db815a5f1b1790ec19f6ed50879d24c43233a5d3d0b5c2197e85f%3A%3Acoin%3A%3AT
 
 Apscan：
 
